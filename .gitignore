@@ -53,14 +53,3 @@ test-results/
 # OS / IDE
 Thumbs.db
 
-
-
-# Ignore frontend source files for initial structure commit
-src/**/*.jsx
-src/**/*.js
-src/**/*.ts
-src/**/*.tsx
-src/**/*.css
-
-# Ignore files inside src/assets
-src/assets/*
